@@ -1,0 +1,1 @@
+Aqui os itens disponíveis na loja são mostrados ao cliente

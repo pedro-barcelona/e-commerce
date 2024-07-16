@@ -1,0 +1,1 @@
+Aqui faço um pequeno código para que o cliente possa se cadastrar na loja
